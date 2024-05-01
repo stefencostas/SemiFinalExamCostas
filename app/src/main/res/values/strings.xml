@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SemiFinalExamCostas</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="class_schedule">Class Schedule</string>
+</resources>
